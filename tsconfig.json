@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "rootDir": "src",
+        "outDir": "lib",
+        "declaration": true
+    },
+    
+    "compileOnSave": true
+}
